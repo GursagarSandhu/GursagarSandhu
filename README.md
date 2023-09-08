@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Ssup! <img src="https://raw.githubusercontent.com/Akshzz-16/Akshzz-16/main/wave.gif" width="30px">
 <!--
 **GursagarSandhu/GursagarSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
